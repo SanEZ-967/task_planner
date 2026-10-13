@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400555236649",
+    "project_id": "jun-task-planner-63f3a",
+    "storage_bucket": "jun-task-planner-63f3a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400555236649:android:338b90b60e5aae80dd6b38",
+        "android_client_info": {
+          "package_name": "com.example.task_planner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2_lqVm2DYGoa63Ch9wpWMsSM_g01Zb8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
