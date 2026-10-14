@@ -106,7 +106,7 @@ The file is created at build/app/outputs/flutter-apk/app-release.apk
    Allow notifications when Android asks.
 
 ---------------------------------------------------------------------
-6. IMPORTANT NOTES
+5. IMPORTANT NOTES
 ---------------------------------------------------------------------
 - Platform: Android only. firebase_options.dart is configured for
   Android; running on web / iOS / desktop will show an "unsupported
@@ -124,7 +124,7 @@ The file is created at build/app/outputs/flutter-apk/app-release.apk
 
 
 ---------------------------------------------------------------------
-7. PROJECT STRUCTURE (lib/ folder)
+6. PROJECT STRUCTURE (lib/ folder)
 ---------------------------------------------------------------------
   main.dart                          App start-up, theme, sign-in gate
   firebase_options.dart              Firebase connection settings (generated)
